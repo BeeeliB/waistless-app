@@ -1,0 +1,11 @@
+streamlit
+easyocr
+pytesseract
+fitz
+pillow
+pyzbar
+requests
+datetime
+plotly.express
+scikit-learn
+tensorflow
